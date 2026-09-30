@@ -1,0 +1,8 @@
+streamlit
+psycopg2-binary
+pdfplumber
+python-docx
+pandas
+python-dateutil
+groq
+python-dotenv
